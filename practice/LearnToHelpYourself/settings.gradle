@@ -1,0 +1,2 @@
+rootProject.name='LearnToHelpYourself'
+include ':app'
