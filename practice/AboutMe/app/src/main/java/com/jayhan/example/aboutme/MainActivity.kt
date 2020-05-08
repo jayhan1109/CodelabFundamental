@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun addNickname() {
         binding.apply {
-            myName?.nickname = binding.nicknameEdit.text.toString()
+            myName?.nickname = nicknameEdit.text.toString()
             invalidateAll()
             nicknameEdit.visibility = View.GONE
             doneButton.visibility = View.GONE
