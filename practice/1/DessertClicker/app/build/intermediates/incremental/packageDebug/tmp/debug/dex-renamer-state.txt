@@ -1,0 +1,4 @@
+#Sat May 09 16:46:22 KST 2020
+base.0=C\:\\Android\\Codelab\\practice\\DessertClicker\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
